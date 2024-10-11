@@ -1,4 +1,6 @@
 # near-rs
+> The library is now a part of the [Near](https://github.com/near/near-api-rs) organization
+
 The near-rs is a simple Rust library that helps developers interact easily with the NEAR blockchain. The library was highly inspired by the API of the [near-cli-rs](https://github.com/near/near-cli-rs) library. The library extensively utilizes builder patterns, this way we guide the users through the user flow, preventing most of the errors and focusing on each step.
 
 Currently, the library provides:
